@@ -4,7 +4,7 @@ declare module "validation-check-workaja" {
     export function isObjectEmpty(obj: any): boolean;
     export function isUndefinedOrNull(variable: any): boolean;
     export function isObjectNullOrEmpty(obj: any): boolean;
-    export function isObjectUndefinedOrNullOrEmpty()(obj: any): boolean;
+    export function isObjectUndefinedOrNullOrEmpty(obj: any): boolean;
     export function isArrayEmpty(arr: any): boolean;
     export function isAnyElementUndefinedOrNull(arr: any): boolean;
     export function isAllElementsNonUndefinedAndNull(arr: any): boolean;
