@@ -1,6 +1,6 @@
 {
-  "name": "validation-checking",
-  "version": "1.3.6",
+  "name": "validation-check-workaja",
+  "version": "1.3.7",
   "description": "check whether value is undefined or empty or null",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christyram99/data-checking.git"
+    "url": "git+https://github.com/Workaja/validation-checking.git"
   },
   "keywords": [
     "validation-checking",
@@ -40,5 +40,8 @@
   "homepage": "https://github.com/christyram99/data-checking#readme",
   "devDependencies": {
     "ava": "^3.3.0"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }

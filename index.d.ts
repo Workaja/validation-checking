@@ -1,4 +1,4 @@
-declare module 'validation-testing' {
+declare module "validation-check-workaja" {
     export function isNull(variable: any): boolean;
     export function isUndefined(variable: any): boolean;
     export function isObjectEmpty(obj: any): boolean;
